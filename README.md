@@ -2,7 +2,7 @@
 You can use the [editor on GitHub](https://github.com/Apache-US/helloworld/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-![image](img/sycy.jpg)
+-br [image](img/sycy.jpg)
 
 ### Markdown
 
@@ -22,17 +22,6 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-![Image](https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=3559c3da942f07085f052d06d11fdfa4/5fdf8db1cb134954bbac39f15c4e9258d0094af1.jpg）
-
-
-![Image]<img src="https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=3559c3da942f07085f052d06d11fdfa4/5fdf8db1cb134954bbac39f15c4e9258d0094af1.jpg" />
-
-
-![image](img/sycy.jpg)
-
-
-
-
 
 
 
