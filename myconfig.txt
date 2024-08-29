@@ -1,17 +1,11 @@
-
-
-
-
-
-
-  - DOMAIN-SUFFIX,justmysocks.net,🚀 节点选择
-  - DOMAIN-SUFFIX,made-in-china.com,🚀 节点选择
-  - DOMAIN-SUFFIX,alibaba.com,🚀 节点选择
-  - DOMAIN-SUFFIX,adobe.com,🚀 节点选择
-  - DOMAIN-SUFFIX,mypikpak.com,🚀 节点选择
-  - DOMAIN-SUFFIX,stock.adobe.com,🚀 节点选择
-  - DOMAIN-SUFFIX,infini-cloud.net,🇯🇵 日本节点
-  - DOMAIN-SUFFIX,bing.com,🚀 节点选择
-  - DOMAIN-SUFFIX,ip2world.com,🚀 节点选择
-  - DOMAIN-SUFFIX,maikrapps.com,🚀 节点选择
-  - DOMAIN-SUFFIX,qbittorrent.org,🚀 节点选择
+payload:
+  - 'justmysocks.net'
+  - 'made-in-china.com'
+  - 'alibaba.com'
+  - 'mypikpak.com'
+  - 'stock.adobe.com'
+  - 'infini-cloud.net'
+  - 'bing.com'
+  - 'ip2world.com'
+  - 'maikrapps.com'
+  - 'qbittorrent.org'
